@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/delete.png</file>
+        <file>img/file.png</file>
+        <file>img/free-icon-delete-159805.png</file>
+        <file>img/new.png</file>
+        <file>img/remove.png</file>
+        <file>img/free-icon-division-8721309.png</file>
+        <file>img/free-icon-letter-x-5918065.png</file>
+        <file>img/icon-calculator.png</file>
+    </qresource>
+</RCC>
